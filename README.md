@@ -13,7 +13,7 @@ Repositório de projetos criados como exemplo no Intensivão de JavaScript da Ha
 
 ## Para utilizar as bibliotecas Express.js e socket.io:
 
-- Caso não o projeto ainda não esteja habilitado, iniciar o Node.js por meio do comando: 'npm init -y'.
+- Caso o projeto ainda não esteja habilitado, iniciar o Node.js por meio do comando: 'npm init -y'.
 
 - Fazer o download de Express.js por meio do comando 'npm install express' e para o arquivo que o utiliza, rodar 'node ./nome_do_arquivo.js'.
 
